@@ -12,7 +12,7 @@ Features:
 - Multi-Maelstrom support
 
 Requires:
-- Bingus Shared Loader
+- [Bingus Shared Loader](https://github.com/CowboyBingus/BingusSharedLoader)
 
 ## Download
 
@@ -21,3 +21,7 @@ Requires:
 ## Configuration
 
 Edit `MaelstromAmmo.cfg` to change the Maelstrom settings.
+
+## Recommended Mod Manager
+
+[HD2Arsenal](https://www.nexusmods.com/helldivers2/mods/4664)
